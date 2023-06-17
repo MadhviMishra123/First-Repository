@@ -1,0 +1,53 @@
+git init. 
+
+git config --global
+
+git config --global user.email madhvimishr@gmail.com
+git config --global user.name MadhviMishra123
+git config --list
+
+git pull <your github url>
+
+git status
+
+created two files
+
+git add -A
+
+git status
+
+git commit -m -A
+
+git branch
+
+git push --set-upstream origin master
+
+username
+password
+
+git push -u origin master
+
+*****failed*****
+
+git checkout -b main
+
+git push -u origin main
+
+username
+password
+
+*****failed*****
+
+*****TOKEN*****
+
+generate from your profile
+
+***token generated***
+
+
+git push -u origin main
+
+username - MadhviMishra123
+password - ******token******
+
+
